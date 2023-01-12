@@ -9,7 +9,7 @@ To build, you need Cmake
 # Demo
 ![Image alt](https://github.com/RhinoOne/PongG/raw/main/DemoSnake.png)
 # Menu
-![Image alt](https://github.com/RhinoOne/PongG/raw/main/MenuSnake.png.png)
+![Image alt](https://github.com/RhinoOne/PongG/raw/main/MenuSnake.png)
 #Technologies
 1. Three patterns are used: Singleton, Bridge and Observer. 
 2. Works without additional graphics libraries
